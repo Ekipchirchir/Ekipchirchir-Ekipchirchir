@@ -12,16 +12,16 @@
 
   <br><br>
 
-  <a href="https://linkedin.com/in/emmanuelkipchirchir" target="_blank">
+  <a href="https://www.linkedin.com/in/manuuchirchir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/itiskipchirchir" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:hello@kipchirchir.dev">
+  <a href="mailto:manuuchirchir50@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF2D20?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kipchirchir.dev" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00EEFF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </div>
