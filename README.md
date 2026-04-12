@@ -34,11 +34,6 @@
 <br>
 
 
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekipchirchir&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" />
-</div>
-
 <br>
 
 
