@@ -3,12 +3,9 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=36&pause=1000&color=00EEFF&center=true&vCenter=true&width=900&lines=Emmanuel+Kipchirchir;Full-Stack+%2B+Mobile+Engineer;React+%7C+Next.js+%7C+Node.js;Flutter+%7C+React+Native" />
-
+  
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=Ekipchirchir&label=Profile+Views&color=00eeff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Ekipchirchir?label=Followers&style=for-the-badge&color=00eeff&logo=github" />
 
   <br><br>
 
